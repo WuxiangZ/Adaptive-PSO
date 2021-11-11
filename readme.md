@@ -20,7 +20,7 @@
 
 ## Usage
 
-​		如果您是用来测试算法，那可以自己设计适应度函数以及配置参数，可以直接参考 https://img.shields.io/github/workflow/status/nathanrooy/particle-swarm-optimization
+​		如果您是用来测试算法，那可以自己设计适应度函数以及配置参数，可以直接参考 https://github.com/nathanrooy/particle-swarm-optimization
 
 **	test04.py**致力于利用多点**DOA**估计得到角度值以及探测阵列源自身的位置坐标联合求解探测目标的三维坐标位置
 
