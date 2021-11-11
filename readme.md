@@ -2,7 +2,7 @@
 
 ## Theory
 
-**PSO CODE Source From https://img.shields.io/github/workflow/status/nathanrooy/particle-swarm-optimization** 
+**PSO CODE Source From https://github.com/nathanrooy/particle-swarm-optimization** 
 
 ​		在基本粒子群算法的迭代公式惯性权重w是定值，但随着迭代次数的增加，问题的求解细节也会有所改变，固定值在整体求解的过程中存在不少缺陷。因而，引入变动的惯性权重，以动态适应问题的求解流程。
 
