@@ -2,7 +2,7 @@
 
 ## Theory
 
-**PSO CODE Source From https://img.shields.io/github/workflow/status/nathanrooy/particle-swarm-optimization** 
+**PSO CODE Source From https://github.com/nathanrooy/particle-swarm-optimization** 
 
 ​		在基本粒子群算法的迭代公式惯性权重w是定值，但随着迭代次数的增加，问题的求解细节也会有所改变，固定值在整体求解的过程中存在不少缺陷。因而，引入变动的惯性权重，以动态适应问题的求解流程。
 
@@ -20,7 +20,7 @@
 
 ## Usage
 
-​		如果您是用来测试算法，那可以自己设计适应度函数以及配置参数，可以直接参考 https://img.shields.io/github/workflow/status/nathanrooy/particle-swarm-optimization
+​		如果您是用来测试算法，那可以自己设计适应度函数以及配置参数，可以直接参考 https://github.com/nathanrooy/particle-swarm-optimization
 
 **	test04.py**致力于利用多点**DOA**估计得到角度值以及探测阵列源自身的位置坐标联合求解探测目标的三维坐标位置
 
